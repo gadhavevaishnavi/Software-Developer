@@ -1,0 +1,12 @@
+my-project/
+│
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│
+├── frontend/
+│   ├── index.html
+│   ├── script.js
+│   ├── styles.css
+│
+└── README.md
